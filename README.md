@@ -86,7 +86,7 @@ All plugin outputs and cache data are stored in the folders you chose during set
 
 ```powershell
 cd "C:\DFIR Tools\Volatility3"
-.venv\Scripts\Activate.ps1
+.venv\Scripts\Activate.ps1
 pip install --upgrade volatility3
 ```
 
