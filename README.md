@@ -36,7 +36,7 @@ This script automatically:
 
 ### 1️⃣ Clone or download
 ```powershell
-git clone https://github.com/<yourusername>/install-vol.git
+git clone https://github.com/<yourusername>/install-vol3.git
 cd install-vol
 ```
 
